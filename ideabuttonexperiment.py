@@ -2,7 +2,7 @@ import tkinter as tk
     
 import random
 
-mylist = ["paint", "picnic", "massage", ""]
+mylist = ["paint with Bob Ross", "picnic", "massage", "charcuterie board", "movie night", "blindfolded dinner"]
 
 def write_slogan():
     print(random.choice(mylist))

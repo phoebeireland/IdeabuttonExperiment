@@ -13,6 +13,7 @@ mylist = [
 
 
 root = tk.Tk()
+root.title("Date Night")
 frame = tk.Frame(root)
 frame.pack()
 
